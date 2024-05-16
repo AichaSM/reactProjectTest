@@ -1,0 +1,25 @@
+.card {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 8px;
+  }
+  
+  .profileImg {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  
+  .userInfo h2 {
+    margin: 0;
+    font-size: 18px;
+  }
+  
+  .userInfo p {
+    margin: 5px 0 0;
+    font-size: 14px;
+    color: #666;
+  }
